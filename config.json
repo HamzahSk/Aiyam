@@ -1,0 +1,24 @@
+{
+   "owner": "6283869821927",
+   "owner_name": "zah ajz",
+   "bot_name": "Aiyam",
+   "database": "data",
+   "limit": 15,
+   "log_limit": 7,
+   "ram_limit": "900mb",
+   "max_upload": 50,
+   "max_upload_free": 25,
+   "cooldown": 1,
+   "timer": 180000,
+   "timeout": 1800000,
+   "permanent_threshold": 3,
+   "notify_threshold": 4,
+   "banned_threshold": 5,
+   "blocks": ["994", "91", "92"],
+   "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
+   "pairing": {
+      "state": true,
+      "number": 6285143039551
+   },
+   "Timezone": "Asia/Jakarta"
+}

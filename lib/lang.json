@@ -1,0 +1,24 @@
+{
+  "mess": {
+    "limit": "Sisa limit kamu tinggal ${limit} nih, hemat ya!"
+  },
+  "client": {
+    "afk": "Hai! 👀 Ada yang balik nih! @${username} udah online lagi setelah offline selama ${duration}. 😄\n\n🤔 Penasaran alasannya AFK? Katanya sih: ${reason}",
+    "localonly": "Maaf ${tag}, grup ini hanya untuk orang Indonesia dan kamu akan dikeluarkan secara otomatis.",
+    "remove": "Oke deh, ${tag}. Terima kasih ya sudah nongkrong bareng di ${grup} selama ini. Jangan kapok kalau ada kesempatan main-main lagi ke sini. Semoga urusanmu lancar terus! See you around! 😉👍",
+    "welcome": "Welcome, ${tag}🤗 Terima kasih sudah bergabung dengan ${grup}. Semoga kamu menikmati waktumu di sini! 👍"
+  },
+  "handler": {
+    "banned": "⚠️ Anda melanggar *Ketentuan Penggunaan* bot dengan menggunakan kata kunci terlarang. Sebagai hukuman, Anda diblokir dan dibanned.",
+    "evenlimit": "⚠️ Limit Anda habis dan akan direset pada pukul 00.00\n\nUntuk mendapatkan limit lebih banyak, upgrade ke paket premium.",
+    "evenprem": "⚠️ Penggunaan bot di chat pribadi hanya untuk pengguna premium. Ingin upgrade? Kirim *${prefix}premium* untuk melihat keuntungan dan harga.",
+    "minlimit": "⚠️ Limit Anda tidak cukup untuk menggunakan fitur ini."
+  },
+  "users": {
+    "afkback": "Anda kembali online setelah offline selama: ${duration}\n\n• ${reasonTitle}: ${reason}",
+    "expprem": "🚩 Paket premium Anda telah berakhir. Terima kasih telah menggunakan layanan kami."
+  },
+  "group": {
+    "expsewa": "Waktu aktif bot di grup ini telah berakhir. Bot akan keluar dari grup ini. Terima kasih."
+  }  
+}

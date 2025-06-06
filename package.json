@@ -1,0 +1,66 @@
+{
+   "name": "aiyam-bot",
+   "version": "4.0",
+   "description": "WhatsApp Bot (Base)",
+   "main": "index.js",
+   "engines": {
+      "node": ">= 20.x"
+   },
+   "scripts": {
+      "start": "node ."
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/neoxr/neoxr-bot.git"
+   },
+   "keywords": [
+      "wb",
+      "bot"
+   ],
+   "author": "Zah Ajah",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/neoxr/neoxr-bot/issues"
+   },
+   "homepage": "https://github.com/neoxr/neoxr-bot#readme",
+   "dependencies": {
+      "@adiwajshing/baileys": "npm:@neoxr/baileys@latest",
+      "@adiwajshing/keyed-db": "^0.2.4",
+      "@colors/colors": "^1.6.0",
+      "@dark-yasiya/scrap": "latest",
+      "@database/mongo": "github:neoxr/database#mongo",
+      "@database/postgres": "github:neoxr/database#postgresql",
+      "@neoxr/wb": "latest",
+      "@session/mongo": "github:neoxr/session#mongo",
+      "@session/postgres": "github:neoxr/session#postgresql",
+      "awesome-phonenumber": "^4.4.0",
+      "axios": "^0.24.0",
+      "cfonts": "3.1.1",
+      "cheerio": "^1.0.0-rc.10",
+      "cloudinary": "latest",
+      "discord.js": "^14.19.3",
+      "express": "^4.18.2",
+      "file-type": "^16.5.3",
+      "form-data": "^4.0.0",
+      "got": "^11.8.3",
+      "html-entities": "^2.5.2",
+      "http": "latest",
+      "https": "latest",
+      "human-readable": "^0.2.1",
+      "imgbox": "latest",
+      "moment-timezone": "^0.5.43",
+      "node-cron": "^3.0.0",
+      "node-fetch": "^2.6.1",
+      "node-gtts": "^2.0.2",
+      "pino": "^8.14.1",
+      "qrcode": "1.5.0",
+      "qs": "^6.11.0",
+      "redis": "latest",
+      "speedtest-net": "1.6.2",
+      "streamifier": "^0.1.1",
+      "translate-google-api": "1.0.4",
+      "url": "latest",
+      "yt-search": "^2.10.4",
+      "ytdl-core": "npm:@distube/ytdl-core@latest"
+   }
+}
